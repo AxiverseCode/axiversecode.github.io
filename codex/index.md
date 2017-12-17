@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Codex
-permalink: /codex/
 ---
 
-Codex index
+   - [Contributing](/codex/contributing)
+   - [Repositories](/codex/repositories)	
